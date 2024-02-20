@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/bin/Debug/net6.0/Array-DateTime
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/bin/Debug/net6.0/Array-DateTime.deps.json
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/bin/Debug/net6.0/Array-DateTime.runtimeconfig.json
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/bin/Debug/net6.0/Array-DateTime.dll
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/bin/Debug/net6.0/Array-DateTime.pdb
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.dll
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/refint/Array-DateTime.dll
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.pdb
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/Array-DateTime.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Array-DateTime/Array-DateTime/obj/Debug/net6.0/ref/Array-DateTime.dll
